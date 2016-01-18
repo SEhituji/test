@@ -1,6 +1,6 @@
 <?php
 
 echo "<html><head><title>test1</title></head><body>";
-echo "<p>ƒeƒXƒgƒy[ƒW‚P</p>";
-echo "<p><a href=\"./index.php\">ƒgƒbƒvƒy[ƒW</a></p>";
-echo "<p><a href=\"./test2.php\">ƒeƒXƒgƒy[ƒW‚Q</a></p>";
+echo "<p>ãƒ†ã‚¹ãƒˆãƒšãƒ¼ã‚¸ï¼‘</p>";
+echo "<p><a href=\"./index.php\">ãƒˆãƒƒãƒ—ãƒšãƒ¼ã‚¸</a></p>";
+echo "<p><a href=\"./test2.php\">ãƒ†ã‚¹ãƒˆãƒšãƒ¼ã‚¸ï¼’</a></p>";
